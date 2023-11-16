@@ -1,4 +1,4 @@
-# 23AIBox-DiGCellNet
+# DiGCellNet
 **data:**
 t2dall.xlsx: Gene differential expression data for various pancreatic cell types in T2D.
 
