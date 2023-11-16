@@ -12,7 +12,7 @@ Using node2vec to get the embedding of nodes in the PPI network (keep edges with
 Specify celltype(for example, Delta), load data t2dall.xlsx and GeneCards-T2D-selected.xlsx, get label_Delta.xlsx including gene labels and cell type-specific labels of each cell in t2dall.xlsx.
 
 **run combine.py：**
-input label_Delta.xlsx and PPI_400.emb，get feature_with_label_nod2vec_Delta.txt.
+Input label_Delta.xlsx and PPI_400.emb，get feature_with_label_nod2vec_Delta.txt.
 
 **run DiGCellNet.py**
 Get the results of all methods, record the results. Then run figure.py to get Figure2.
